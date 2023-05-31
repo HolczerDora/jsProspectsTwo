@@ -13,12 +13,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 
 .hex-colors{
     border: 1px solid black;
     text-align: center;
+    padding-top: 50px;
 }
 
 .hex-colors h1 {
