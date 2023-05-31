@@ -2,7 +2,7 @@
 
 
 
-.body{
+body{
     font-family: 'Comfortaa', cursive;
 }
 
@@ -18,20 +18,20 @@
 
 .hex-colors{
     border: 1px solid black;
+    text-align: center;
 }
 
 .hex-colors h1 {
     font-size: 2rem;
     text-transform: uppercase;
     animation: colorchange 5s infinite alternate;
-    font-family: 'Comfortaa', cursive;
+    
 }
 
 .hex-colors h2{
     border: 1px solid black;
     font-size: 2rem;
     margin-top: 15%;
-    font-family: 'Comfortaa', cursive;
 }
 
 
@@ -58,9 +58,9 @@
 
 @media(max-width: 480px){
     .hex-colors h1{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .hex-colors h2{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 }
