@@ -1,6 +1,6 @@
-
-
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+
 
 .body{
     font-family: 'Comfortaa', cursive;
@@ -24,12 +24,14 @@
     font-size: 2rem;
     text-transform: uppercase;
     animation: colorchange 5s infinite alternate;
+    font-family: 'Comfortaa', cursive;
 }
 
 .hex-colors h2{
     border: 1px solid black;
     font-size: 2rem;
     margin-top: 15%;
+    font-family: 'Comfortaa', cursive;
 }
 
 
