@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 
 .body{
     font-family: 'Comfortaa', cursive;
@@ -12,6 +14,7 @@
     justify-content: center;
     align-items: center;
 }
+
 
 .hex-colors{
     border: 1px solid black;
@@ -28,6 +31,7 @@
     font-size: 2rem;
     margin-top: 15%;
 }
+
 
 @keyframes colorchange{
     0%{
